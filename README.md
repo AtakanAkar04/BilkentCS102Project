@@ -23,3 +23,24 @@ Authentication System: Ensures that only Bilkent students can access the applica
 Forum: Supports posting questions, filtering, and viewing replies, fostering community-driven problem-solving.
 Contact and Emergency Information: Easily accessible through the app to improve student safety and communication.
 The UNIte desktop application is designed to enhance the university experience by fostering connections and keeping students well-informed and prepared for campus life.
+
+![image](https://github.com/user-attachments/assets/6840c598-d25f-4479-8fe1-5c2be7007b36)
+
+
+![image](https://github.com/user-attachments/assets/00c25942-9206-4aff-a259-43ce68c329e6)
+
+
+![image](https://github.com/user-attachments/assets/9861cd5d-aa5f-4a48-8137-1d30cacaf366)
+
+
+![image](https://github.com/user-attachments/assets/a6ed0545-6cc7-4423-ad14-ec7e95f7b577)
+
+
+![image](https://github.com/user-attachments/assets/1c6dd35d-5ab5-442b-8d1f-d8ebf510ebc5)
+
+
+
+
+
+
+
