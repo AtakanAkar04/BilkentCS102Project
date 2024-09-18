@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1897a8e2-eac9-4f9e-af0d-d1facddf5912)# BilkentCS102Project
+# BilkentCS102Project
 UNIte Desktop Application
 
 Overview: UNIte is a Java-based desktop application aimed at connecting Bilkent University students by providing three key sections: a forum, announcements, and contact information. The forum allows students to engage with peers through Q&A, while the announcements section keeps students updated with current campus events. The contact section provides essential contact details, including emergency and faculty member information. This application seeks to simplify campus life by promoting communication, collaboration, and accessibility of critical information.
