@@ -1,6 +1,7 @@
 # BilkentCS102Project
 UNIte Desktop Application
-
+UNIte is a desktop application developed by a dedicated team of five students—Atakan Akar, Asya Ünal, Bilgehan Akın, Erdem Uğurlu, and Kerem Varnalı—to enhance the connectivity and interaction among Bilkent University students.
+The project can also be found here on https://github.com/AtakanAkar04/uniteApp, where you can view the commits, contributors, and further details.
 Overview: UNIte is a Java-based desktop application aimed at connecting Bilkent University students by providing three key sections: a forum, announcements, and contact information. The forum allows students to engage with peers through Q&A, while the announcements section keeps students updated with current campus events. The contact section provides essential contact details, including emergency and faculty member information. This application seeks to simplify campus life by promoting communication, collaboration, and accessibility of critical information.
 
 Objectives:
